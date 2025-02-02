@@ -13,27 +13,22 @@ I'm a passionate engineer who loves building innovative solutions and exploring 
 - 💡 Always open to collaborating on projects and innovative ideas
 - 💬 Ask me about Machine Learning, System Design, and Backend development
 
+## 📊 Featured Projects with Research paper
+
+### Incremental Gaussian Mixture Clustering in Streaming data (https://arxiv.org/abs/2412.07217)
+#### IEEE International Conference on Data Mining, ICDM 2024, Abu Dhabi, UAE, December 9-12, 2024
+- **Real-time Analytics Platform**
+  - Created streaming pipeline using Apache Kafka
+  - Processes 1TB+ data with sub-second latency
+  - Deployed on AWS using EKS and serverless components
+
+### Machine Learning Model
+- **Unsupervised clustering ML Model**
+  - Developed automated ML model deployment pipeline
+  - Integrated A/B testing and monitoring
+
+
 ## 🛠 Tech Stack
-<!--
-### Languages
-- Python | Java | JavaScript | TypeScript | Go
-- SQL | HTML | CSS | Bash
-
-
-### Frameworks & Libraries
-- React.js | Node.js | Django | Flask
-- Streamli | Express.js | FastAPI
-
-### Cloud & DevOps
-- AWS 
-- Docker | Kubernetes | Jenkins
-- Terraform | Ansible
-- CI/CD | GitOps
-
-### Databases
-- PostgreSQL | MongoDB | Redis
-- Elasticsearch | Cassandra
--->
 
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -58,6 +53,7 @@ I'm a passionate engineer who loves building innovative solutions and exploring 
 ![FastText](https://img.shields.io/badge/-FastText-05122A?style=flat&logo=fasttext)
 ![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=transformers)
 
+
 ### Streaming & Big Data
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apache-spark)
@@ -76,6 +72,7 @@ I'm a passionate engineer who loves building innovative solutions and exploring 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
@@ -88,19 +85,6 @@ I'm a passionate engineer who loves building innovative solutions and exploring 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)
 
-## 📊 Featured Projects
-
-### Incremental Gaussian Mixture Clustering in Streaming data (https://arxiv.org/abs/2412.07217)
-#### IEEE International Conference on Data Mining, ICDM 2024, Abu Dhabi, UAE, December 9-12, 2024
-- **Real-time Analytics Platform**
-  - Created streaming pipeline using Apache Kafka
-  - Processes 1TB+ data with sub-second latency
-  - Deployed on AWS using EKS and serverless components
-
-### Machine Learning Model
-- **Unsupervised clustering ML Model**
-  - Developed automated ML model deployment pipeline
-  - Integrated A/B testing and monitoring
 
 ## 📫 Let's Connect!
 
