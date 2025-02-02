@@ -15,7 +15,7 @@ I'm a passionate engineer who loves building innovative solutions and exploring 
 
 ## 📊 Featured Projects and 🗞️Research papers
 
-### Incremental Gaussian Mixture Clustering for Data Streams [Arxiv](https://arxiv.org/abs/2412.07217)
+### Incremental Gaussian Mixture Clustering for Data Streams     [[Arxiv]](https://arxiv.org/abs/2412.07217)
 #### IEEE International Conference on Data Mining, ICDM 2024, Abu Dhabi, UAE, December 9-12, 2024
 - **Real-time Analytics Platform**
   - Created streaming pipeline using Apache Kafka
