@@ -13,19 +13,19 @@ I'm a passionate engineer who loves building innovative solutions and exploring 
 - 💡 Always open to collaborating on projects and innovative ideas
 - 💬 Ask me about Machine Learning, System Design, and Backend development
 
-## 📊 Featured Projects with Research paper
+## 📊 Featured Projects and 🗞️Research papers
 
-### Incremental Gaussian Mixture Clustering in Streaming data (https://arxiv.org/abs/2412.07217)
+### Incremental Gaussian Mixture Clustering for Data Streams [Arxiv](https://arxiv.org/abs/2412.07217)
 #### IEEE International Conference on Data Mining, ICDM 2024, Abu Dhabi, UAE, December 9-12, 2024
 - **Real-time Analytics Platform**
   - Created streaming pipeline using Apache Kafka
-  - Processes 1TB+ data with sub-second latency
+  - Processes a big data stream with sub-second latency
   - Deployed on AWS using EKS and serverless components
 
-### Machine Learning Model
 - **Unsupervised clustering ML Model**
   - Developed automated ML model deployment pipeline
   - Integrated A/B testing and monitoring
+  - Used the RandIndex score to compare the clustering results when entire data is available
 
 
 ## 🛠 Tech Stack
@@ -89,7 +89,7 @@ I'm a passionate engineer who loves building innovative solutions and exploring 
 ## 📫 Let's Connect!
 
 - 📧 Email: aniketbhanderi@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/aniketbhanderi](https://www.linkedin.com/in/aniketbhanderi/)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketbhanderi/)
 - 🐦 Twitter: [@AniketBhanderi](https://x.com/AniketBhanderi)
 - 🌐 Portfolio: [In Progress]
 
