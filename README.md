@@ -19,6 +19,7 @@ I'm a passionate engineer who loves building innovative solutions and exploring 
 - Python | Java | JavaScript | TypeScript | Go
 - SQL | HTML | CSS | Bash
 
+
 ### Frameworks & Libraries
 - React.js | Node.js | Django | Flask
 - Streamli | Express.js | FastAPI
@@ -38,9 +39,30 @@ I'm a passionate engineer who loves building innovative solutions and exploring 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
+![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
+![FastAI](https://img.shields.io/badge/-FastAI-05122A?style=flat&logo=fastai)
+
+
+### NLP & Text Processing
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-05122A?style=flat&logo=huggingface)
+![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat&logo=nltk)
+![spaCy](https://img.shields.io/badge/-spaCy-05122A?style=flat&logo=spacy)
+![Stanford NLP](https://img.shields.io/badge/-Stanford%20NLP-05122A?style=flat&logo=stanford)
+![FastText](https://img.shields.io/badge/-FastText-05122A?style=flat&logo=fasttext)
+![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=transformers)
+
+### Streaming & Big Data
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apache-spark)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=apache-airflow)
+
 
 ### Development & Design
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -64,13 +86,12 @@ I'm a passionate engineer who loves building innovative solutions and exploring 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)
 
 ## 📊 Featured Projects
 
 ### Incremental Gaussian Mixture Clustering in Streaming data (https://arxiv.org/abs/2412.07217)
-
+#### IEEE International Conference on Data Mining, ICDM 2024, Abu Dhabi, UAE, December 9-12, 2024
 - **Real-time Analytics Platform**
   - Created streaming pipeline using Apache Kafka
   - Processes 1TB+ data with sub-second latency
