@@ -1,6 +1,3 @@
-<!--
-Initializing the template using the Claude AI
--->
 # 👋 Hey there, I'm Aniket 
 
 ## 👨‍💻 About Me
