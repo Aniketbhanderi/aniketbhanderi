@@ -2,10 +2,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate engineer who loves building innovative solutions and exploring cutting-edge software and data science technologies. Currently working at the intersection of natural language processing and incremental machine learning to create scalable, data-driven applications.
+I'm a passionate researcher who loves building innovative solutions and exploring cutting-edge software and data science technologies. Currently working at the intersection of natural language processing and incremental machine learning to create scalable, data-driven applications.
 
-- 🎓 M.S. in Computer Science from University of Cincinnati
-- 💼 Currently seeking opportunities in Data Science and Software Engineering
+- 🎓 Pursuing PhD in Computer Science from University of Cincinnati
+- 💼 Currently doing research in Data Science and Machine Learning
 - 🌱 Learning more about AI/ML, NLP, DevOps, and Scalable and distributed systems
 - 💡 Always open to collaborating on projects and innovative ideas
 - 💬 Ask me about Machine Learning, System Design, and Backend development
